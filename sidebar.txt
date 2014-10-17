@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ybx:home|Door43 (ybx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ybx|d43-ybx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ybx/archive/master.zip|d43-ybx.zip]]
+
+**Recent Changes**
+{{changes>ns = ybx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ybx|Ethnologue data]]
+
